@@ -6,3 +6,4 @@ J’ai créé une feuille Google Sheets avec trois colonnes : Expéditeur, Sujet
 J’ai ensuite développé et configuré mon premier chatbot, nommé Alexia.
 Logique du scénario : Lorsqu’un nouvel email est reçu, le workflow extrait le nom de l’expéditeur, le sujet et la date. Ces informations sont ajoutées automatiquement dans les colonnes correspondantes de Google Sheets. En parallèle, Telegram est configuré pour récupérer l’expéditeur et le sujet afin de les transmettre directement dans mon chatbot Alexia, qui me notifie en temps réel.
 le scénario : Trigger → Gmail → Sheets → Telegram.
+https://eu1.make.com/public/shared-scenario/piVD6ybL3iQ/integration-gmail-google-sheets-telegr
